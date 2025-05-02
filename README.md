@@ -1,6 +1,6 @@
 👋 Hi, I'm Nensi Andani
 
-🚀 Data Scientist | AI Enthusiast | ML Explorer
+🚀 Data Scientists | AI Enthusiast | ML Explorer
 
 
 🔍 Passionate about solving real-world problems with AI & ML
