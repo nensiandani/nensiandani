@@ -3,7 +3,9 @@
 https://topmate.io/nensi_andani
 
 👩‍💻 Data Scientist | 🐍 Python Developer | 📊 Data Analyst |
-🧮 Machine Learning | 🧠 Deep Learning | 🌐 Django Developer 
+
+🧮 Machine Learning | 🧠 Deep Learning | 🌐 Django Developer |
+
 🗃️ SQL | 📂 NoSQL 📈 Data Visualization : Excel | POWER BI
 
 
