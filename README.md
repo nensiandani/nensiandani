@@ -2,17 +2,14 @@
 
 https://topmate.io/nensi_andani
 
-🚀 Data Scientists | AI Enthusiast | ML Explorer
+👩‍💻 Data Scientist | 🐍 Python Developer | 📊 Data Analyst |
+🧮 Machine Learning | 🧠 Deep Learning | 🌐 Django Developer 
+🗃️ SQL | 📂 NoSQL 📈 Data Visualization : Excel | POWER BI
 
 
 🔍 Passionate about solving real-world problems with AI & ML
 
-
-🛠️ Currently building GenAI & Data Science projects
-
-
 📊 Love working with LLMs, Predictive Models, and Big Data
-
 
 📢 Sharing insights & projects on Medium
 
